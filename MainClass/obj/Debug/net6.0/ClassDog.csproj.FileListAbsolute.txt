@@ -1,0 +1,15 @@
+C:\Users\Windows10\source\repos\ClassBilanIshlash\MainClass\bin\Debug\net6.0\ClassDog.exe
+C:\Users\Windows10\source\repos\ClassBilanIshlash\MainClass\bin\Debug\net6.0\ClassDog.deps.json
+C:\Users\Windows10\source\repos\ClassBilanIshlash\MainClass\bin\Debug\net6.0\ClassDog.runtimeconfig.json
+C:\Users\Windows10\source\repos\ClassBilanIshlash\MainClass\bin\Debug\net6.0\ClassDog.dll
+C:\Users\Windows10\source\repos\ClassBilanIshlash\MainClass\bin\Debug\net6.0\ClassDog.pdb
+C:\Users\Windows10\source\repos\ClassBilanIshlash\MainClass\obj\Debug\net6.0\ClassDog.csproj.AssemblyReference.cache
+C:\Users\Windows10\source\repos\ClassBilanIshlash\MainClass\obj\Debug\net6.0\ClassDog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows10\source\repos\ClassBilanIshlash\MainClass\obj\Debug\net6.0\ClassDog.AssemblyInfoInputs.cache
+C:\Users\Windows10\source\repos\ClassBilanIshlash\MainClass\obj\Debug\net6.0\ClassDog.AssemblyInfo.cs
+C:\Users\Windows10\source\repos\ClassBilanIshlash\MainClass\obj\Debug\net6.0\ClassDog.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\ClassBilanIshlash\MainClass\obj\Debug\net6.0\ClassDog.dll
+C:\Users\Windows10\source\repos\ClassBilanIshlash\MainClass\obj\Debug\net6.0\refint\ClassDog.dll
+C:\Users\Windows10\source\repos\ClassBilanIshlash\MainClass\obj\Debug\net6.0\ClassDog.pdb
+C:\Users\Windows10\source\repos\ClassBilanIshlash\MainClass\obj\Debug\net6.0\ClassDog.genruntimeconfig.cache
+C:\Users\Windows10\source\repos\ClassBilanIshlash\MainClass\obj\Debug\net6.0\ref\ClassDog.dll
